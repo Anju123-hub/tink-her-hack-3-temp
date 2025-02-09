@@ -10,7 +10,7 @@
 - Member 2: JISHA.G - GWPTC KAYAMKULAM
 
 ### Hosted Project Link
-http://anju123-hub/food-facility-plan-human-and-pets/
+http://anju123-hub.github.io/food-facility-plan-human-and-pets/
 
 ### Project Description
 Food is categorized based on age
