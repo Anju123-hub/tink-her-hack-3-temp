@@ -10,24 +10,24 @@
 - Member 2: JISHA.G - GWPTC KAYAMKULAM
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+http://anju123-hub/food-facility-plan-human-and-pets/
 
 ### Project Description
 Food is categorized based on age
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+list and categories
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+- background colour
+- chatgpt
+
 
 For Hardware:
 - [List main components]
