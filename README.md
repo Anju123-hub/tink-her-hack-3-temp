@@ -1,20 +1,19 @@
-# [Project Name] 🎯
+# FOOD STABILITY PLAN -HUMEN AND PETS 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: star
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: ANJU ANILKUMAR - GWPTC KAYAMKULAM
+- Member 2: JISHA.G - GWPTC KAYAMKULAM
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Food is categorized based on age
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
