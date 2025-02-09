@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>food</title>
+</head>
+<body>
+<h1> FOOD STABILITY PLAN HUMANS AND PETS</h1>
+<center><h1>Welcome</h1></center>
+<center><a href="select.html"><button type="submit">Next</button></a></center>
+</body>
+</html>

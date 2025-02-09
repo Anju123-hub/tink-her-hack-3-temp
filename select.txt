@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>food</title>
+ </head> 
+ <body>
+    <h1>SELECT CATEOGARY</h1>
+    <h2><u>About</u></h2>
+    <p><h3>  </h3></p>
+    <br>
+    <h1>Human</h1>
+    <a href ="human.html">Human</a> 
+    <h1>Pets</h1>
+    <a href="pets.html">Pets</a>
+    <br>
+ </body>  
+ </html
